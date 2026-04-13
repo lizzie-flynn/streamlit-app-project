@@ -1,4 +1,5 @@
 import streamlit as st
+<<<<<<< HEAD
 st.markdown(
     """
     <style>
