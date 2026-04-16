@@ -4,12 +4,14 @@
 Elizabeth Flynn
 
 ## App Description
-This app will help users plan and organize their outfits by allowing them to create and save outfit combinations for different days or events.
+The Outfit Planner App helps users choose outfit ideas based on where they are going and their personal style. The app allows users to select an occasion and a style preference, then provides outfit recommendations.
 
-## Intended Users
-This app is intended for students and young adults who want an easy way to manage their wardrobe and plan outfits.
+## Current Features
+- Select an occasion (school, gym, party, date, casual day)
+- Choose a style preference
+- Receive outfit suggestions based on selections
 
 ## Planned Features
-- Daily or weekly outfit planner
-- Clothing category selection (tops, bottoms, shoes)
-- Save and view favorite outfits
+- Add weather-based outfit suggestions
+- Allow users to save favorite outfits
+- Add images of outfit ideas
